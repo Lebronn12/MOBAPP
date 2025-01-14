@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MOBAPP</string>
+    <string name="button_text">&#60;</string>
+    <string name="delete">To confirm this, type "DELETE"</string>
+
+</resources>
